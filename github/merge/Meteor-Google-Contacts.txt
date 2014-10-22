@@ -1,0 +1,7 @@
+TODO:
+- Merge https://github.com/Ajnasz/Google-Contacts into https://github.com/iyou/Meteor-Google-Contacts or 
+https://github.com/Vitarch/Meteor-Google-Contacts
+- Change the package information
+- Update packages to latest meteor version
+- Test the package
+- Test the latest changes from https://github.com/Ajnasz/Google-Contacts
