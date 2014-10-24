@@ -5,3 +5,8 @@ https://github.com/Vitarch/Meteor-Google-Contacts
 - Update packages to latest meteor version
 - Test the package
 - Test the latest changes from https://github.com/Ajnasz/Google-Contacts
+- git mergetool
+  - graphical diff tools include windiff, vimdiff, among others
+
+The refresh token technique can be considered to debug the meteor-google-api (percolate:google-api)
+https://github.com/percolatestudio/meteor-google-api
