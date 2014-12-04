@@ -1,9 +1,9 @@
 Git/Github Commands Reference
 =============================
-Steps for merging a new feature branch into develop then master branch.  Checkout, pull, merge, commit, push.
+Steps for merging a new feature branch into develop then master branch.  Checkout, pull, merge, commit, push. Repeat.
 
-* git clone http://github.com/<yourRepo>.git
-* cd <yourLocalRepoDir>/
+* git clone http://github.com/yourRepo.git
+* cd yourLocalRepoDir/
 * git branch
 * git status
 * git checkout -b develop
@@ -11,11 +11,11 @@ Steps for merging a new feature branch into develop then master branch.  Checkou
 * git merge master
 * git commit -a -m "tested and everything is working and there are no conflicts with master and develop so we can continue. yay!"
 * git push origin develop
-* git checkout -b <yourFeature>
+* git checkout -b yourFeature
 * git commit -m "made changes and I am ready to merge into develop then master"
-* git push origin <yourFeature>
+* git push origin yourFeature
 * git checkout develop
-* git merge <yourFeature>
+* git merge yourFeature
 * git push origin develop
 * git checkout master
 * git merge develop
