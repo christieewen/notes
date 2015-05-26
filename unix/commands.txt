@@ -1,0 +1,5 @@
+    grep -R searchterm --exclude-dir=DIR --ignore-case
+    
+Example:
+
+    grep -R signIn --exclude-dir="\.meteor*" --ignore-case
