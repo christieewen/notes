@@ -1,3 +1,11 @@
+Find a file recursively in the current directory using grep with regular expressions.  In this example, to ignore upper case or lower case:
+
+
+    find . -print | grep -i "posts*"
+
+
+
+
     grep -R searchterm --exclude-dir=DIR --ignore-case
     
 Example:
