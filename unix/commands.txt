@@ -1,6 +1,5 @@
 Find a file recursively in the current directory using grep with regular expressions.  In this example, to ignore upper case or lower case:
 
-
     find . -print | grep -i "posts*"
 
 
@@ -11,3 +10,10 @@ Find a file recursively in the current directory using grep with regular express
 Example:
 
     grep -R signIn --exclude-dir="\.meteor*" --ignore-case
+
+
+Install on the command line:
+    curl -L -O <URL of file>
+    
+Example:
+    curl -L -O https://download.elastic.co/elasticsearch/release/org/elasticsearch/distribution/tar/elasticsearch/2.1.1/elasticsearch-2.1.1.tar.gz
