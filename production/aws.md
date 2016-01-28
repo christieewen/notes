@@ -6,9 +6,9 @@ http://calculator.s3.amazonaws.com/index.html
 Make sure to kill those processes.
 
 For example:
-service upstartname stop
-service nginx stop
-kill <mongodb process id>
+* service upstartname stop
+* service nginx stop
+* kill <mongodb process id>
 
 
 Best practice: 
