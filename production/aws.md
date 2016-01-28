@@ -8,7 +8,7 @@ Make sure to kill those processes.
 For example:
 * service upstartname stop
 * service nginx stop
-* kill <mongodb process id>
+* kill "mongodb process id"
 
 
 Best practice: 
