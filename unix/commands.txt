@@ -17,3 +17,13 @@ Install on the command line:
     
 Example:
     curl -L -O https://download.elastic.co/elasticsearch/release/org/elasticsearch/distribution/tar/elasticsearch/2.1.1/elasticsearch-2.1.1.tar.gz
+
+
+Where is the program such as logstash installed?
+Example:
+
+    whereis logstash
+    
+
+To remove Windows hidden characters from a file:
+    dos2unix filename
