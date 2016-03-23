@@ -7,3 +7,7 @@ To check on your server, type:
 
     ping yourdomain.com
     
+
+To see what connections are established, type:
+    
+    netstat -petune
