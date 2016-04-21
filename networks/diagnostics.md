@@ -11,3 +11,11 @@ To check on your server, type:
 To see what connections are established, type:
     
     netstat -petune
+
+Other:
+    netstat -an | grep <keyword>
+
+To reload nginx (reload is an elegant feature of nginx where all workers and jobs get finished before restarting):
+
+    sudo service nginx reload
+    
