@@ -19,3 +19,9 @@ To reload nginx (reload is an elegant feature of nginx where all workers and job
 
     sudo service nginx reload
     
+
+Look at the error message.  Check logs
+Example:
+    more /var/logs/<kibana.stderr>
+    
+It turned out chmod +R fixed the problem where there was a apt-get bug.  The error message did say that the file was not accessible.
