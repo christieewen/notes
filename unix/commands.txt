@@ -19,7 +19,7 @@ Example:
     curl -L -O https://download.elastic.co/elasticsearch/release/org/elasticsearch/distribution/tar/elasticsearch/2.1.1/elasticsearch-2.1.1.tar.gz
 
 
-To get a file rather than using wget:
+To get a file using curl rather than using wget:
     curl -O <URL of file>
 
 
