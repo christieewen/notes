@@ -22,3 +22,6 @@ Do this:
   
   
   
+Check your node and npm version as well.
+To upgrade node via npm:
+http://tecadmin.net/upgrade-nodejs-via-npm/#
