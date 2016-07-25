@@ -1,4 +1,4 @@
 notes
 =====
 
-My notes on steps taken to accomplish basic tasks
+My notes on programming.
