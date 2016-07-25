@@ -37,6 +37,10 @@ To autocomplete based on previous entries:
     Type out command and if you see the command you want then press enter.
 
 
+More find commands:
+
+find . -type f -exec grep <keyword> {} \; -print
+
 
 REFERNECES
 ==========
