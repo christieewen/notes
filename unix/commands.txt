@@ -41,6 +41,9 @@ More find commands:
 
 find . -type f -exec grep <keyword> {} \; -print
 
+tar:
+
+http://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/
 
 REFERNECES
 ==========
