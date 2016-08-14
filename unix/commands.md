@@ -65,7 +65,7 @@ tar:
 http://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/
 
 
-Fie Editing
+File Editing
 ===========
 To write a new file that has all occurrences of a text beginning with ".example" on a line. Remember to escape the "."
 
