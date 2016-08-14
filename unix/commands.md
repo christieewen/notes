@@ -76,7 +76,7 @@ sed 's/old/new' myfile
 awk
 
 
-REFERNECES
+REFERENCES
 ==========
 http://www.thegeekstuff.com/2012/07/wget-curl/
 
