@@ -12,9 +12,9 @@ Nightwatch.js
 https://www.youtube.com/watch?v=794uaoenv_M
 
 
- ___Nightwatch.js
-|___data
-|   |_____dev.js
-|   |______staging.js
-|___tests
-    |____login.js
+         ___Nightwatch.js
+        |___data
+        |   |_____dev.js
+        |   |______staging.js
+        |___tests
+            |____login.js
