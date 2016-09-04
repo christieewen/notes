@@ -7,3 +7,4 @@ Google
 
 
 For Wordpress, get a plugin.
+This one is pretty good by [Duracelltomi](https://wordpress.org/plugins/duracelltomi-google-tag-manager/)
