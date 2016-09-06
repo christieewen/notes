@@ -1,0 +1,17 @@
+Meteor 1.4 on Windows 10 
+------------------------
+
+   meteor npm install
+   
+   
+   
+If you get [node-gyp errors](https://forums.meteor.com/t/node-gyp-rebuild-installation-error-when-adding-a-package-to-meteor-app-in-windows-7/7410/2):
+https://github.com/nodejs/node-gyp
+
+Install all the required tools and configurations using Microsoft's windows-build-tools using 
+   npm install --global --production windows-build-tools 
+
+from an elevated PowerShell or CMD.exe (run as Administrator).
+
+
+Set up environment variables in the Advanced System Settings.
