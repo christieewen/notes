@@ -1,6 +1,6 @@
 Recursion in functional Javascript programming
 ==============================================
-http://www.integralist.co.uk/posts/understanding-recursion-in-functional-javascript-programming/
+http://www.integralist.co.uk/posts/js-recursion.html
 
 Error Handling
 ==============
