@@ -18,3 +18,6 @@ from an elevated PowerShell or CMD.exe (run as Administrator).
 
 
 Set up environment variables in the Advanced System Settings.
+
+
+There are build issues on Windows.  A workaround is to build on Linux and to do a file transfer via Github or Dropbox.  The key idea is that Node will run on any operating system.
