@@ -2,6 +2,11 @@ Recursion in functional Javascript programming
 ==============================================
 http://www.integralist.co.uk/posts/js-recursion.html
 
+Elm
+===
+http://elm-lang.org/
+Gradually convert your existing code from a soon-to-be legacy platform.  Compile your new code in Elm to JS and copy/paste the JS as usual.
+
 Error Handling
 ==============
 https://www.joyent.com/developers/node/design/errors
