@@ -1,5 +1,5 @@
 # Autorun
-Use Templates.subscriptionsReady() to get any required subscriptions.
+Use Templates.subscriptionsReady to get any required subscriptions.
 ![Templates.subscriptionsReady()](Screen Shot 2016-10-25 at 10.28.55 AM.png)
 
 Subscriptions are properly handled inside the self.autorun();
