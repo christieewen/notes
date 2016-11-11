@@ -24,3 +24,5 @@ Edit the configuration file.
 ```sh
 sudo emacs /etc/elasticsearch/elasticsearch.yml
 ```
+
+https://www.elastic.co/guide/en/elasticsearch/reference/current/modules-http.html
