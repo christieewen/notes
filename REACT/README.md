@@ -9,3 +9,7 @@
 1 root in html
 
 No Inheritance, Only composition in REACT
+
+
+# REFERENCE
+https://reactjsnews.com/structuring-react-projects
