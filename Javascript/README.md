@@ -19,3 +19,6 @@ REUSE CODE
 ==========
 http://codepen.io/collections/
 
+Learning Javascript
+===================
+http://eloquentjavascript.net/
