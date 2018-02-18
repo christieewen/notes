@@ -60,6 +60,9 @@ More find commands:
 
 find . -type f -exec grep <keyword> {} \; -print
 
+find / -type d -name "hadoop_env*"
+
+
 tar:
 
 http://www.howtogeek.com/248780/how-to-compress-and-extract-files-using-the-tar-command-on-linux/
