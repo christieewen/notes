@@ -14,8 +14,12 @@ touch -- Update access and modification of a file
 
 df -k -- Check disk
 
+du -- Check disk usage
+
 ps -ae | grep mongo
 
+wc -l <filename> -- Count the number of lines or rows in a file.
+    
 
 Find a file recursively in the current directory using grep with regular expressions.  In this example, to ignore upper case or lower case:
 
