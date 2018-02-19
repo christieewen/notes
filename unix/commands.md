@@ -18,8 +18,10 @@ du -- Check disk usage
 
 ps -ae | grep mongo
 
-wc -l <filename> -- Count the number of lines or rows in a file.
-    
+To  count the number of lines or rows in a file, use wc
+```
+wc -l <filename>
+``` 
 
 Find a file recursively in the current directory using grep with regular expressions.  In this example, to ignore upper case or lower case:
 
