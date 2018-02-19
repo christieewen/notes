@@ -18,7 +18,7 @@ du -- Check disk usage
 
 ps -ae | grep mongo
 
-To  count the number of lines or rows in a file, use wc
+To  count the number of lines or rows in a file, use wc:
 ```
 wc -l <filename>
 ``` 
