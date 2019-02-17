@@ -1,7 +1,7 @@
 
 # Two-factor authentication or SAML sign on
 
-Generate a personal token as password.  See instructions for the https (recommended): https://help.github.com/articles/which-remote-url-should-i-use/
+Generate a personal token as password.  See instructions for cloning with HTTPS URLS (recommended): https://help.github.com/articles/which-remote-url-should-i-use/
 
 
 ```
